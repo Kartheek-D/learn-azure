@@ -1,0 +1,15 @@
+{
+	"name": "Learn-DataFactory-RG",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "79adc7b3-2c2b-44f8-9422-3cc25475fbc3",
+		"tenantId": "c3baf3fa-f952-4778-94ee-22facfb0d23b"
+	}
+}
